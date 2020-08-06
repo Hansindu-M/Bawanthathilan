@@ -37,13 +37,12 @@ Hi, I'm Bawantha Thilan, a Full Stack Developer 🚀 from Srilanka, currently, I
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
+- 🔭 I’m currently working as **Associate Software Engineer @ Apium Innovations**
+- 🌱 I’m currently learning **Python - Machine Learning**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: bawantharathnayaka@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 **Languages and Tools:**  
@@ -59,5 +58,5 @@ Hi, I'm Bawantha Thilan, a Full Stack Developer 🚀 from Srilanka, currently, I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+![Bawantha's github stats](https://github-readme-stats.vercel.app/api?username=bawanthathilan&show_icons=true&hide_border=true)
 
