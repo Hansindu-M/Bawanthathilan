@@ -1,4 +1,5 @@
 ### Hey 👋🏽, I'm [Bawantha!](https://bawanthathilan.github.io) 
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 <br/>
 
@@ -38,12 +39,12 @@ Hi, I'm Bawantha Thilan, a Full Stack Developer 🚀 from Srilanka, currently, I
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as **Associate Software Engineer @ Apium Innovations**
-- 🌱 I’m currently learning **Python - Machine Learning**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
+- 💅 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: bawantharathnayaka@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+
 
 **Languages and Tools:**  
 
